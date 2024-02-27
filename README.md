@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">tonelottolucas@gmail.com</p>
+<a align="left">tonelottolucas@gmail.com</a>
 
 ###
 
