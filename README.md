@@ -1,11 +1,6 @@
 <h1 align="left">Hi!</h1>
 
-###
-
 <p align="left">Software engineering student from Argentina :argentina:.</p>
-
-###
-
 
 <h2 align="left">Social media!</h2>
 
